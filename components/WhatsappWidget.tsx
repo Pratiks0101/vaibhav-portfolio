@@ -13,7 +13,7 @@ export default function WhatsappWidget() {
             target="_blank"
             rel="noopener norefrrer"
             aria-label="Chat on Whatsapp"
-            className="fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 bg-emerald-500 hover:bg-emerald-600 text-white rounded-full shadow-lg shadow-emerald-900/30 transition-all duration-300 hover:scale-110 group"
+            className="fixed bottom-16 right-6 z-50 flex items-center justify-center w-14 h-14 bg-emerald-500 hover:bg-emerald-600 text-white rounded-full shadow-lg shadow-emerald-900/30 transition-all duration-300 hover:scale-110 group"
         >
             <Image
                 src="/whatsapp.svg"
