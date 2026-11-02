@@ -51,7 +51,7 @@ export default function ExperienceTimeline() {
                 <div className="bg-white dark:bg-[#111827] border border-slate-200 dark:border-slate-800 p-6 rounded-2xl w-full hover:border-teal-500/50 transition-all shadow-sm dark:shadow-none">
                     <div className="flex items-center justify-between mb-2">
                     <span className="text-xs font-mono font-semibold text-teal-700 dark:text-teal-400 bg-teal-50 dark:bg-teal-950/60 px-2.5 py-1 rounded border border-teal-500/30">
-                        Jul 2023 – Jul 2026
+                        Oct 2023 – Jul 2026
                     </span>
                     <span className="text-xs text-slate-400 dark:text-slate-500">Nagpur, MH</span>
                     </div>
